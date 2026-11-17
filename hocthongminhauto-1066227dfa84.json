@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "hocthongminhauto",
+  "private_key_id": "1066227dfa844f6e7b03c7e8f3f0bf52f5137cfa",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDzCcxbw/sCHz77\n6mY9WQAeklqkE1wSBL6zUE3pUl2pjTD+HFloJgjUwgjCfPFGpUwULw062NF+cXNS\nsYKm5na5pTVOoJ5Rnf4IGsTloI70yZIHdOm5A7aSCA3qM9rMitqDU6ylP4H5h+NK\nOjpInQ6hc9ligZL8Y3uO5hx0BbFxRjKlam1LBIsTVAFM6vtxy9K3IyFcuY9oNO0W\nIqZAlTnkeTXompnZj96n/rCFrj/1hBCC+e1PyuWuy67rYYHZ4cSk6isycNC+Thmk\nm5mczocMcRGlZDfHMkxehgZOQ5YluAyQ2iq8K2aq1Ybb0/pvlkoyRBGK5S+YJSJP\nSOn8yZUhAgMBAAECggEAAyepqDhNUhv7OpRyotG8s2jlddNNguteWWANvt1jm1+a\nlvXhwD0cKLzjFbk+/ZKIQAvTUWP+pjRNUbG9tzJvMJ5BKKXjoD4bjdnhG/T/XhSe\nyWt+XDk83bzuh0+Ig9a6mvFTYKrIImfd7rj+SDKHvddN5140vQOCl1qL3IK1aLnA\n1TBABrzYDd6nyOwMmv7MmgM0oCylQ1A/hn8wFXZgAlqq4oRzAyJxGg6cQgUV4No6\nzp0uO5WuVGLcplf+CC2/aJjTddZO6LIc3NfKqpQqDwwTiPPw1e54KAi550HgwyUo\n/gpangp9rRXt9GUPvrrBBDEAIcv/M0EF2E/eLwtgpQKBgQD51npgYl3qTVmqAYvO\nqRn2ijYx40s4oGbod5jAdd2P75cOdgOJHNgvvOirpeQS2bQj+z+El0P3mgNNnEeq\nQAg2lR5NrSFZjkfsgn0CwVX58hzBu7CWu5VimTgeH0sm1u65kTJVyNNXnn07VfR1\n62TBCpS8jHun7oA66QNX+sHcBQKBgQD5CGMCTiwRxr4JfFHZ8d9+f5VnbGkERJqv\nnQuQ48fYreP2fnNmBSz3qfM+iN+lkSKNHPvT/a/0dJCzZVNahWEDifiIih6Rl2Fo\n8+IaeDikNZirYYv48yW52YAtjGTVAjpZojGaAO14kdekuH8b3LyiEmPuhPSzvvEU\nb3XxbE77bQKBgCb112eob1TWcyEb1J2JqU7VBtaIx3YxLVsbK2r39nE3v6q1pJ+B\nLAVlxDLgT8zQvlLOH32hySuXjORRdquKCL3aSzt5wDWjBnxPbQc89xdfNjTP/B3F\naupRUnsADkwkQF4X0m2mP67uPEFAijrJVpD0AXXVwoLRopWNOMRDim+xAoGAMZSx\n4aueqotfGpRd136IeK7+F/FFl0vxYDVsMBSpnUJBuLnET/OH2GdFvpWRsW0L6/xx\nRuujNJBgntb1mXgksIevq7+UBniVNEgaJBr7a/Yfxz9MluwR/saG9oqVKLOg2meo\naHj2zqJ6xJjW9b0k8T+oFbzy2zaQ2Pi4CrD9qKECgYBZq1DYUWO3mDPTYITgwsjg\n31IqAZPlObqVgGlSmiKpw9gL30U4npqHpVKqU+AhsWK8NCDgdgG1EWOpO8VzjsVy\nAAX/HJgvzi819tcf0xcGxKXeyGQYew/Bzj7AdDZutUsWu76RuaOoCVNP8Qfl3EIq\nVjZR2lBxs1+NQgqMt98CYw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "hoc-thong-minh-bot@hocthongminhauto.iam.gserviceaccount.com",
+  "client_id": "107869344252947958647",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hoc-thong-minh-bot%40hocthongminhauto.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

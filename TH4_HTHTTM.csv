@@ -1,0 +1,8 @@
+Dấu thời gian,Điểm số,2151163673,Hà Thị Thùy Dung,"
+len(""Python"") trả về gì?","
+Câu lệnh nào dùng để lặp qua danh sách lst?","
+Biến nào hợp lệ trong Python?","type([1,2,3]) trả về gì?  ","
+
+Hàm nào dùng để nhập dữ liệu từ người dùng?",Cột 9
+22/10/2025 8:38:48,10 / 10,2251162065,Long,6,for x in lst:,var_2,list,input(),
+22/10/2025 10:03:07,8 / 10,2251162186,Vũ Quỳnh Trang,6,for x in lst:,var_2,list,print(),
